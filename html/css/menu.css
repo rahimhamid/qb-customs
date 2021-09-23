@@ -15,8 +15,8 @@
     display: flex;
     flex-flow: column wrap;
 
-    background-color: rgb(23 23 23 / 80%);
-    /*border: 2px solid rgb(236, 240, 241);*/
+    background-color: rgb(255 255 255 / 80%);
+    /*border: 2px solid rgb(255 255 255);*/
 
     width: 47vh;
     max-height: 78vh;
@@ -31,8 +31,8 @@
     text-transform: uppercase;
     font-size: 18pt;
     font-weight: 400;
-    color: rgb(157, 0, 248);
-    background-color: #594f57;
+    color: rgb(255 255 255)
+    background-color: #ffffff;
     border-radius: .6vh;
     margin: 1vh;
     padding: .5vh .5vh .5vh .5vh;
@@ -47,7 +47,7 @@
     font-size: 12pt;
     font-weight: 300;
     color: #bf00ff;
-    background-color: #444444;
+    background-color: #ffffff;
     margin-bottom: 1vh;
     margin-left: 1vh;
     width: 45vh;
@@ -66,7 +66,7 @@
     font-size: 14pt;
     font-style: normal;
     font-weight: 300;
-    color: rgb(208, 0, 250);
+    color: rgb(212 0 255);
 
     list-style-type: none;
     text-align: left;
@@ -94,8 +94,8 @@
 
 .item_selected
 {
-    background-color: rgb(204, 0, 255) !important;
-    color: rgb(36, 36, 36);
+    background-color: rgb(255 255 255) !important;
+    color: rgb(141 0 255);
     font-weight: 400;
 }
 
@@ -108,7 +108,7 @@
     font-weight: 400;
     color: #ea00ff;
     
-    background-color: #383838;
+    background-color: #ffffff;
 
     width: 47vh;
 }
@@ -119,10 +119,10 @@
     padding-bottom: 5.5px;
     text-align: center;
     font-size: 18pt;
-    color: #8000ff;
+    color: #ffffff;
     width: 47vh;
     margin-top: 1vh;
     border-bottom-left-radius: 1vh;
     border-bottom-right-radius: 1vh;
-    background-color: #2c2c2c;
+    background-color: #ab00ff;
 }
